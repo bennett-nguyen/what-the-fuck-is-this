@@ -1,2 +1,2 @@
 # what-the-fuck-is-this
-Compilation of my bad code in the past.
+I'm too lazy to update this repo, maybe later
