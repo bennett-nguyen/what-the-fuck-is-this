@@ -1,0 +1,5 @@
+End1 = "\n ==> This program will stop executing. Thanks for using my program.\n"
+Error1 = "\n ==> Invalid input. The numeric input must be positive!\n"
+Error2 = "\n ==> Invalid input. Check these 3 things if you wished to see what you did wrong.\n1. The input is numeric.\n2. “Molar mass” must be an integer (Whole number).\n3. If you’re entering a decimal number, please use “.” instead of “,” (Example: “2.5” not “2,5”).\n"
+Error3 = "\n ==> Invalid input. The input only takes number not text!\n"
+Error4 = "\n ==> Invalid input. Check these 2 things if you wished to see what you did wrong.\n1. The input only takes number not text!\n2. If you’re entering a decimal number, please use “.” instead of “,” (Example: “2.5” not “2,5”)\n"
