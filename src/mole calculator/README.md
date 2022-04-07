@@ -4,7 +4,7 @@ The mole calculator is my first Python project and is also the most poorly writt
 
 # Mole calculator (improved)
 
-This is the "improved" version of the first mole calculator, basically I grouped all of the repeated code into different functions to remove redundant code, I also apply decorators and stuff like that to make the code less complicated. Sadly, however, it only causes more ambiguity. Oh yeah, did I also mention that I used Pascal Case instead of snake_case?
+This is the "improved" version of the first mole calculator, basically I grouped all of the repeated code into different functions to remove redundant code, I also apply decorators and stuff like that to make the code less complicated. Sadly, however, it only causes more ambiguity. Oh yeah, did I also mention that I used PascalCase instead of snake_case?
 
 # How Did I Came Up With The Idea?
 
