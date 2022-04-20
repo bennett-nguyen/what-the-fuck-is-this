@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+
+* {
+    font-family: Quicksand, 'sans-serif'
+}
+.container {
+    width: 350px;
+    height: 493px;
+    border-radius: 10px;
+    border: 2px solid rgb(184, 128, 25);
+    background-color: orange;
+}
+
+.expressionsField {
+    border-radius: 10px;
+    width: 300px;
+    height: 70px;
+    border: 2px solid rgb(184, 128, 25);
+    margin: 20px;
+    background-color: white;
+    font-size: 3vh;
+}
+
+.buttonsField {
+    border-radius: 5px;
+    width: 300px;
+    height: max-content;
+    margin: 20px;
+    border: 2px solid rgb(184, 128, 25);
+    background-color: white;
+}
+
+#b1, #b2, #b3, #b4, #b5, #b6, #b7, #b8, #b9, #b0, #bp, #bp, #bm, #bmu, #bd, #PERIOD, #CLEAR, #ACLEAR, #openParent, #closeParent {
+    width: 72px;
+    height: 70px;
+    font-size: 3vh;
+    border-radius: 5px;
+    border-color: rgb(184, 128, 25);
+    background-color: white;
+}
+
+button:hover {
+    opacity: 0.5;
+}
+
+#eval {
+    width: 72px;
+    height: 70px;
+    font-size: 3vh;
+    border-radius: 3px;
+    background-color: white;
+}
+
+#float {
+    width: 17rem;
+    margin-left: 10px;
+    font-size: 2vh;
+    margin-bottom: -1.5em;
+    color: gray;
+}
+
+#expression {
+    width: 13.2em;
+    margin-left: 9px;
+    overflow: auto;
+}
+
+#expression::-webkit-scrollbar {
+    height: 5px;
+    border-radius: 20px;
+    background-color: rgb(194, 194, 194);
+}
+
+#expression::-webkit-scrollbar-thumb {
+    background-color: orange;
+    border-radius: 100px;
+}
+
+#expression::-webkit-scrollbar-thumb:hover {
+    background-color:rgb(184, 128, 25)
+}
+
