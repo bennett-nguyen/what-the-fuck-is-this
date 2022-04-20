@@ -25,6 +25,8 @@ About the logic: When the user press a button (any button except for the functio
 <br>
 
 My calculator was missing some CSS so I added them to make the calculator look better (I'm not a designer so don't blame me for the bad designing)
+<br>
+
 ![image](https://raw.githubusercontent.com/bennett-nguyen/what-the-fuck-is-this/main/image/epik_css.jpg)
 <br>
 
